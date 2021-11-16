@@ -16,8 +16,6 @@ const MealItem = (props) => {
       price: props.price
     })
 
-    console.log({id: props.id, name : props.name, amount :amount, price: props.price})
-    console.log(cartCtx.items)
   };
 
   return (
