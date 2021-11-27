@@ -27,6 +27,12 @@ const DUMMY_MEALS = [
     description: "Healthy...and green...",
     price: 18.99,
   },
+  {
+    id: "m5",
+    name: "Bologenese",
+    description: "Classic Italian comfort food",
+    price: 13.99,
+  }
 ];
 
 const AvailableMeals = () => {
